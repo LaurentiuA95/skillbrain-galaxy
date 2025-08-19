@@ -1,6 +1,6 @@
 # skillbrain-galaxy
 
-## Comenzi de Linu utile
+## Comenzi de Linux utile
 
 "cd git" - schimbam folderul in folderul "git"
 "cd .." - schimbam folderul parinte
